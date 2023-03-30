@@ -13,7 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo7silva&theme=omni&layout=compact&langs_count=4"> 
 </div>
   
-  
+  ##
+<h4>Tecnologies:</h4>
 <div>
   <img align="center" alt="leo-html5" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="leo-css" width="42" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -26,7 +27,7 @@
 </div>
   
   ##
-  
+<h4>Contact:</h4>
 <div>
   <a href="mailto:leonardops012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
