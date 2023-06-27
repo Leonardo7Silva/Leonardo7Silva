@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Front-end and Back-end
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning JAVA
 - 👯 I’m looking for a job
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a excellent goalkeeper
